@@ -37,8 +37,6 @@ Or on any of this social networks:
 </a>
 <br />
 
-&nbsp;
-
 <p align="center">
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=surfi89&color=blue&style=flat&label=visitors" />
 <img alt="surfi's followers" src="https://img.shields.io/github/followers/surfi89?color=blue" />
