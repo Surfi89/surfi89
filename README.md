@@ -20,7 +20,10 @@ Here are some of my achievements and interests:
 * 🏄‍♂️  surfing and bodyboarding
 * 🌎  languages, travelling and new cultures
 * 🐾  animals
-.
+* 🎶  EDM
+* 🎬  Hasta el último hombre
+* 🕮  Agatha Cristie's The murder of Roger Ackroyd
+* 💙  I'm blue, da ba dee da ba daa
 
 	` If you are 42 cadet: feel free to reach me on Slack -> @ajordan- `
 	
@@ -37,13 +40,16 @@ Or on any of this social networks:
 </a>
 <br />
 
+---
+
+| [![surfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surfi89&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/surfi89?tab=repositories) | [![surfi89's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surfi89&layout=compact&hide_border=true&theme=prussian)](https://github.com/surfi89?tab=repositories) |
+|:-:|:-:|
+
 <p align="center">
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=surfi89&color=blue&style=flat&label=visitors" />
 <img alt="surfi's followers" src="https://img.shields.io/github/followers/surfi89?color=blue" />
 <img alt="surfi's stars" src="https://img.shields.io/github/stars/surfi89?color=blue" />
 </p>
-
-
 	
 ---
 
