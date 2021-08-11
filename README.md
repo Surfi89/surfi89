@@ -35,11 +35,16 @@ Or on any of this social networks:
 <a href="https://www.linkedin.com/in/aritz-jordan-zaballa/">
   <img align="left" alt=“Ajordan’s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=surfi89.surfi89)
-
 <br />
 
+<p align="center">
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=surfi89&color=blue&style=flat&label=visitors" />
+<img alt="surfi's followers" src="https://img.shields.io/github/followers/surfi89?color=blue" />
+<img alt="surfi's stars" src="https://img.shields.io/github/stars/surfi89?color=blue" />
+</p>
+
+
+	
 ---
 
 <h3 align="center">
