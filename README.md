@@ -29,7 +29,7 @@ Or on any of this social networks:
 <a href="https://discordapp.com/users/209660552568373249">
   <img align="left" alt=“Surfi89’s Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/ajordan_89">
   <img align="left" alt="Aritz Jordan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aritz-jordan-zaballa/">
